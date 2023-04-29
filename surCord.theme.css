@@ -91,12 +91,19 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   --font-display: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
   --font-headline: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
   text-rendering: optimizeLegibility;
-  text-transform: none !important;
   letter-spacing: 0.015em;
 
   /* font-weight: bold !important; */
 }
 
+
+.membersGroup-2eiWxl {
+    text-transform: uppercase;
+}
+
+.containerDefault-3TQ5YN {
+    text-transform: uppercase;
+}
 /* 
 /////////////////////////////////////////
 //ADD YOUR OWN ADDITIONS BELLOW THIS LINE
