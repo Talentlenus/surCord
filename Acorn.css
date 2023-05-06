@@ -28,10 +28,10 @@
 ----------Config 🛠️---------
 > Rename "hide.css" to "donthide.css" to stop hiding the user panel
 */
-@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/config/panels/hide.css');
+@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/config/panels/donthide.css');
 
 /*
 ----------Palettes 🎨---------
 > Rename "default.css" to "darker.css" for a darker theme
 */
-@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/themes/default.css');
+@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/themes/darker.css');
